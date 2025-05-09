@@ -24,6 +24,8 @@ Comandos necessarios:
 
 <p>pip install Flask</p>
 
+<p>pip install flask-cors</p>
+
 <p>pip install pytubefix</p>
 
 <p>py server.py</p>
