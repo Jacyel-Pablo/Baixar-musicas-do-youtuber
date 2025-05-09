@@ -16,6 +16,8 @@ Comandos necessarios:
 
 <h1><strong>Rodando o Back-End</strong></h1>
 
+<p>Crie uma pasta com o nome audios em server</p>
+
 <p>Abra um novo terminal</p>
 
 <p>cd server</p>
